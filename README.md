@@ -1,4 +1,4 @@
-# WebScraping-YouTube-s-Data-For-Exploratory-Data-Analysis
+# WebScraping-YouTube-Data-For-Exploratory-Data-Analysis
 
 I have build an Python Project to Scrape YouTube data using YouTube Data API. Using YouTube API, I extracted the data and then load this data into a Python Pandas DataFrame and then analyze this data. 
 Finally, I had build a simple visualization from this data using the Python Seaborn library.
